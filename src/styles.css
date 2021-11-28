@@ -1,0 +1,50 @@
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+.loading {
+  font-size: 3rem;
+  margin-top: 1rem;
+}
+.single-tour {
+  display: block;
+  margin: auto;
+  border: 0.1rem solid;
+  width: 50%;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-radius: 0.4rem;
+}
+.underline {
+  text-decoration: underline;
+  text-decoration-color: slateblue;
+}
+.single-tour img {
+  width: 70%;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 0.8rem;
+  margin-top: 2rem;
+}
+.tour-price {
+  color: blue;
+}
+.title {
+  text-align: center;
+}
+.tour-description {
+  text-align: justify;
+}
+.btn {
+  font-size: 1rem;
+  padding: 0.6rem;
+  border: 0.2rem solid;
+  border-radius: 0.3rem;
+  background-color: grey;
+}
+.small-btn {
+  background-color: yellow;
+  border: 0.01rem solid;
+  border-radius: 0.3rem;
+  padding: 0.2rem;
+}
